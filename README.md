@@ -1,4 +1,4 @@
-# 2st_iot_project
+# 2nd_iot_project
 Portfolio for student 
 
 student team project
