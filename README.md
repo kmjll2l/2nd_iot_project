@@ -1,12 +1,2 @@
-# 2nd_iot_project
-Portfolio for student 
-
-student team project
-
-^^ use arduino uno
-
-atmega 328p && Raspberry pi
-
-Custom board
-
-let's make it !!!
+## Factory
+[![BTS DNA Youtube](https://img.youtube.com/vi/nLJ-a6S_e_M/0.jpg)](https://www.youtube.com/watch?v=nLJ-a6S_e_M)
