@@ -5,7 +5,7 @@ student team project
 
 ^^ use arduino uno
 
-atmega 328p
+atmega 328p && Raspberry pi
 
 Custom board
 
